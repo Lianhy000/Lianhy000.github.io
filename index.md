@@ -24,6 +24,12 @@ Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for
 - **[Mar. 2024]** Admitted by the CS program of UNC.
 - **[Mar. 2024]** Admitted by the joint BME progam of Georgia Tech and Emory.
 
+## Service
+
+I serve as a reviewer for peer-reviewed journals in optics:
+
+- Optica {Optics Letters, Optics Express}
+
 ## Teaching Assistant
 
 - **[Aug. 2025 - Present]** Americans with Disabilities Act (ADA)  
