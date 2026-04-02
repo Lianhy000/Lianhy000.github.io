@@ -28,7 +28,7 @@ Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for
 
 I serve as a reviewer for peer-reviewed journals in optics:
 
-- Optica {Optics Letters, Optics Express}
+- <span style="color:#8A2BE2; font-weight:bold;">Optica</span> {<span style="color:#8A2BE2; font-weight:bold;">Optics Letters</span>, <span style="color:#8A2BE2; font-weight:bold;">Optics Express</span>}
 
 ## 📚 Teaching Assistant
 
