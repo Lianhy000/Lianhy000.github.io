@@ -1,5 +1,23 @@
 main:
 
+  - title: "Conditional Imaging for Privacy-Preserving Visual Sensing"
+    authors: <strong>Hengyu Lian</strong>, Debabrata Mandal, Anzhou Wen, Yujie Wang, Xi Peng, Praneeth Chakravarthula
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2610.28835, 2026.
+    pdf: https://arxiv.org/abs/2610.28835
+    bibtex: https://arxiv.org/bibtex/2610.28835
+    image: ./assets/img/ConditionalImaging.png
+
+  - title: "Asynchronous Multimodal View Synthesis with Probabilistic Temporal Encoding"
+    authors: Zihao Zou, Jiaming Liu, <strong>Hengyu Lian</strong>, Nagasai Thadishetty, Praneeth Chakravarthula
+    conference_short: SIGGRAPH Asia
+    conference: SIGGRAPH Asia 2026 Conference Papers.
+    pdf: https://zihaozou.github.io/ProbRoPE/assets/siggraph-camauthor.pdf
+    code: https://github.com/zihaozou/ProbRoPE
+    page: https://zihaozou.github.io/ProbRoPE/
+    bibtex: https://zihaozou.github.io/ProbRoPE/
+    image: ./assets/img/ProbRoPE.png
+
   - title: "High-frame-rate reconfigurable diffractive neural network based on superpixels"
     authors: Yuan Qu†, <strong>Hengyu Lian†</strong>, Chunxu Ding, Huazhen Liu, Linxian Liu, Jiamiao Yang
     conference_short: Optics Letters
@@ -12,7 +30,7 @@ main:
     authors: Huazhen Liu, Rongjun Shao, Yuan Qu, Chunxu Ding, <strong>Hengyu Lian</strong>, Siqi Wu, and Jiamiao Yang
     conference_short: Optics Express
     conference: Optics Express.
-    pdf: https://www.osapublishing.org/oe/fulltext.cfm?uri=oe-31-10-18318&id=454752
+    pdf: https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-25-44605
     bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:USQrR1jXRj0J:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCCtOE:AAZF9b8AAAAAaOqErOENoLesZ-8t7l1vT2xiEHQ&scisig=AAZF9b8AAAAAaOqErCM3neNbg0DKza4NOA6TFTM&scisf=4&ct=citation&cd=-1&hl=en"
     image: ./assets/img/phaseunwrap.png
 
