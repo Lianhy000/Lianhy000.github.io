@@ -15,7 +15,7 @@ main:
     pdf: https://zihaozou.github.io/ProbRoPE/assets/siggraph-camauthor.pdf
     code: https://github.com/zihaozou/ProbRoPE
     page: https://zihaozou.github.io/ProbRoPE/
-    bibtex: https://zihaozou.github.io/ProbRoPE/
+    bibtex: ./assets/files/bib/zou2026asynchronous.bib
     image: ./assets/img/ProbRoPE.png
 
   - title: "High-frame-rate reconfigurable diffractive neural network based on superpixels"
@@ -23,7 +23,7 @@ main:
     conference_short: Optics Letters
     conference: Optics Letters.
     pdf: https://opg.optica.org/ol/fulltext.cfm?uri=ol-48-19-5025
-    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:u5zuv4wSOTkJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCFXoA:AAZF9b8AAAAAaOqDRoBPL5GXRkMBlAP13Raq-yc&scisig=AAZF9b8AAAAAaOqDRhzgVxRy-MQAWorewPC9YhQ&scisf=4&ct=citation&cd=-1&hl=en"
+    bibtex: ./assets/files/bib/qu2023superpixel.bib
     image: ./assets/img/sDNN.png
 
   - title: "High-accuracy phase unwrapping based on binarized wrap count"
@@ -31,7 +31,7 @@ main:
     conference_short: Optics Express
     conference: Optics Express.
     pdf: https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-25-44605
-    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:USQrR1jXRj0J:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCCtOE:AAZF9b8AAAAAaOqErOENoLesZ-8t7l1vT2xiEHQ&scisig=AAZF9b8AAAAAaOqErCM3neNbg0DKza4NOA6TFTM&scisf=4&ct=citation&cd=-1&hl=en"
+    bibtex: ./assets/files/bib/liu2024phase.bib
     image: ./assets/img/phaseunwrap.png
 
   - title: "HoloZip: High Hologram Compression via Latent-of-Latent Coding"
@@ -39,7 +39,7 @@ main:
     conference_short: ICCP
     conference: IEEE International Conference on Computational Photography.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11143849
-    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:POpaGROcqhgJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCDY9s:AAZF9b8AAAAAaOqFe9u3t2jNaMp8srmN6pURctk&scisig=AAZF9b8AAAAAaOqFe59LQhCRkDmHf_JGv8koE1U&scisf=4&ct=citation&cd=-1&hl=en"
+    bibtex: ./assets/files/bib/qu2025holozip.bib
     image: ./assets/img/Holozip.png
 
   - title: "Time series analysis for financial indices using optical reservoir computing"
@@ -47,7 +47,7 @@ main:
     conference_short: Optical Engineering
     conference: Optical Engineering.
     pdf: https://www.spiedigitallibrary.org/journals/optical-engineering/volume-63/issue-5/054108/Time-series-analysis-for-financial-indices-using-optical-reservoir-computing/10.1117/1.OE.63.5.054108.full
-    bibtex: "https://scholar.googleusercontent.com/scholar.bib?q=info:B4GToz1dLgUJ:scholar.google.com/&output=citation&scisdr=CgLd4md1ELeS7VCCFIE:AAZF9b8AAAAAaOqEDIGrQ2EdDnNHAmzuNmHBxJw&scisig=AAZF9b8AAAAAaOqEDEG4unAECEzmS80LsF7WzDo&scisf=4&ct=citation&cd=-1&hl=en"
+    bibtex: ./assets/files/bib/qu2024reservoir.bib
     image: ./assets/img/RC.png
 
   # Example publication format (commented out):

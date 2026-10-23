@@ -6,9 +6,9 @@ email: lianhy0@cs.unc.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Hengyu Lian, UNC Chapel Hill, computational imaging, computational display, holography, optical neural network, wavefront shaping
+description: Hengyu Lian is a Ph.D. student in Computer Science at UNC Chapel Hill, working on computational imaging, computational displays (holography), and optical neural networks.
+canonical: https://lianhy000.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
