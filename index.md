@@ -10,6 +10,32 @@ My research lies at the intersection of physical optics and computer science, fo
 
 Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for any inquiries within my area. 
 
+## 🎓 Education
+
+<div class="edu-list">
+  <div class="edu-item">
+    <img class="edu-logo" src="./assets/img/logos/unc_logo.png" alt="UNC Chapel Hill seal">
+    <div class="edu-text">
+      <div class="edu-head"><span class="edu-school">University of North Carolina at Chapel Hill</span><span class="edu-date">Aug. 2024 – Present</span></div>
+      <div class="edu-degree">Ph.D. in Computer Science</div>
+    </div>
+  </div>
+  <div class="edu-item">
+    <img class="edu-logo" src="./assets/img/logos/sjtu_logo.png" alt="Shanghai Jiao Tong University seal">
+    <div class="edu-text">
+      <div class="edu-head"><span class="edu-school">Shanghai Jiao Tong University</span><span class="edu-date">Sep. 2021 – Jun. 2024</span></div>
+      <div class="edu-degree">M.S.E. in Electronic and Information Engineering</div>
+    </div>
+  </div>
+  <div class="edu-item">
+    <img class="edu-logo" src="./assets/img/logos/tju_logo.png" alt="Tianjin University seal">
+    <div class="edu-text">
+      <div class="edu-head"><span class="edu-school">Tianjin University</span><span class="edu-date">Sep. 2017 – Jul. 2021</span></div>
+      <div class="edu-degree">B.Eng. in Electrical Engineering</div>
+    </div>
+  </div>
+</div>
+
 ## 🔬 Research Interests
 
 - **Computational Imaging** 
