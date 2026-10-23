@@ -21,10 +21,9 @@ Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for
 
 - **[Oct. 2026]** Our preprint on [conditional imaging for privacy-preserving visual sensing](https://arxiv.org/abs/2610.28835) is now on arXiv.
 - **[Aug. 2026]** Our paper [ProbRoPE](https://zihaozou.github.io/ProbRoPE/) was accepted by SIGGRAPH Asia 2026.
-- **[May. 2025]** Our paper HoloZip was accepted by ICCP.
+- **[May. 2025]** Our paper [HoloZip](https://doi.org/10.1109/ICCP64821.2025.11143849) was accepted by ICCP.
 - **[Aug. 2024]** Will start my next period in Chapel Hill!
 - **[Mar. 2024]** Admitted by the CS program of UNC.
-- **[Mar. 2024]** Admitted by the joint BME program of Georgia Tech and Emory.
 
 ## 🤝 Service
 
