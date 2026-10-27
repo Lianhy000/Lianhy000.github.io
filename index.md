@@ -6,7 +6,7 @@ layout: homepage
 
 I am a Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill, advised by [Prof. Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). Before that, I received my M.S.E. in Electronic and Information Engineering from Shanghai Jiao Tong University, advised by [Prof. Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and [Prof. Jiamiao Yang](https://sais.sjtu.edu.cn/faculty/yangjiamiao.html), and my B.Eng. in Electronic Engineering from Tianjin University.
 
-My research lies at the intersection of physical optics and computer science, focusing on computational imaging, computational displays (holography), wavefront shaping, and optical neural networks.
+My research lies at the intersection of physical optics and computer science, focusing on computational imaging and computational displays (holography).
 
 **I am currently looking for research internships in computational imaging, displays, and optics.** Feel free to reach out at [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) about research or internship opportunities.
 
@@ -38,10 +38,8 @@ My research lies at the intersection of physical optics and computer science, fo
 
 ## 🔬 Research Interests
 
-- **Computational Imaging** 
-- **Computational Display** 
-- **Optical Neural Network** 
-- **Wavefront Shaping** 
+- **Computational Imaging:** privacy-preserving visual sensing, phase retrieval, computational photography
+- **Computational Displays:** holographic and near-eye displays for AR/VR
 
 ## 📰 News
 
