@@ -38,7 +38,7 @@ My research lies at the intersection of physical optics and computer science, fo
 
 ## 🔬 Research Interests
 
-- **Computational Imaging:** privacy-preserving visual sensing, phase retrieval, computational photography
+- **Computational Imaging:** computational cameras and photography (e.g., privacy-preserving vision, phase imaging)
 - **Computational Displays:** holographic and near-eye displays for AR/VR
 
 ## 📰 News
