@@ -4,11 +4,11 @@ layout: homepage
 
 ## 👤 About Me
 
-I am a Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill, advised by [Prof. Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). Previously, I earned my Master's degree in Electronic and Information Engineering in Shanghai Jiao Tong University (advised by [Prof. Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and [Prof. Jiamiao Yang](https://sais.sjtu.edu.cn/faculty/yangjiamiao.html)) and my Bachelor degree in Electronic Engineering from Tianjin University. 
+I am a Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill, advised by [Prof. Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). Before that, I received my M.S.E. in Electronic and Information Engineering from Shanghai Jiao Tong University, advised by [Prof. Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and [Prof. Jiamiao Yang](https://sais.sjtu.edu.cn/faculty/yangjiamiao.html), and my B.Eng. in Electronic Engineering from Tianjin University.
 
-My research lies at the intersection of physical optics and computer science, focusing on computational imaging, computational displays (holography), wavefront shaping and optical neural network.
+My research lies at the intersection of physical optics and computer science, focusing on computational imaging, computational displays (holography), wavefront shaping, and optical neural networks.
 
-Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for any inquiries within my area. 
+**I am currently looking for research internships in computational imaging, displays, and optics.** Feel free to reach out at [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) about research or internship opportunities.
 
 ## 🎓 Education
 
@@ -46,10 +46,9 @@ Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for
 ## 📰 News
 
 - **[Oct. 2026]** Our preprint on [conditional imaging for privacy-preserving visual sensing](https://arxiv.org/abs/2610.28835) is now on arXiv.
-- **[Aug. 2026]** Our paper [ProbRoPE](https://zihaozou.github.io/ProbRoPE/) was accepted by SIGGRAPH Asia 2026.
-- **[May. 2025]** Our paper [HoloZip](https://doi.org/10.1109/ICCP64821.2025.11143849) was accepted by ICCP.
-- **[Aug. 2024]** Will start my next period in Chapel Hill!
-- **[Mar. 2024]** Admitted by the CS program of UNC.
+- **[Aug. 2026]** Our paper [ProbRoPE](https://zihaozou.github.io/ProbRoPE/) was accepted to SIGGRAPH Asia 2026.
+- **[May 2025]** Our paper [HoloZip](https://doi.org/10.1109/ICCP64821.2025.11143849) was accepted to ICCP 2025.
+- **[Aug. 2024]** Started my Ph.D. in Computer Science at UNC Chapel Hill.
 
 ## 🤝 Service
 
