@@ -8,7 +8,7 @@ I am a Ph.D. student in Computer Science at the University of North Carolina at 
 
 My research lies at the intersection of physical optics and computer science, focusing on computational imaging and computational displays (holography).
 
-**I am currently looking for research internships in computational imaging, displays, and optics.** Feel free to reach out at [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) about research or internship opportunities.
+<strong class="highlight-note">I am currently looking for research internships in computational imaging, displays, and optics.</strong> Feel free to reach out at [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) about research or internship opportunities.
 
 ## 🎓 Education
 
