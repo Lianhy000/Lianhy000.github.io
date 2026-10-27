@@ -35,7 +35,7 @@ main:
     image: ./assets/img/phaseunwrap.png
 
   - title: "HoloZip: High Hologram Compression via Latent-of-Latent Coding"
-    authors: Huaizhi Qu*, Yujie Wang*, Ruichen Zhang, <strong>Hengyu Lian</strong>, Mufan Qiu, Samarjit Chakraborty, Henry Fuchs, Tianlong Chen, Praneeth Chakravarthula
+    authors: Huaizhi Qu†, Yujie Wang†, Ruichen Zhang, <strong>Hengyu Lian</strong>, Mufan Qiu, Samarjit Chakraborty, Henry Fuchs, Tianlong Chen, Praneeth Chakravarthula
     conference_short: ICCP
     conference: IEEE International Conference on Computational Photography.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11143849
