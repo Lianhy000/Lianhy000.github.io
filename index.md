@@ -4,7 +4,7 @@ layout: homepage
 
 ## 👤 About Me
 
-I am a Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill, advised by [Prof. Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). Previously, I earned my Master's degree in Electronic and Information Engineering in Shanghai Jiao Tong University (advised by [Prof. Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and [Prof. Jiamiao Yang](https://sais.sjtu.edu.cn/faculty/yangjiamiao.html)) and my Bachelor degree in Electrical Engineering from Tianjin University. 
+I am a Ph.D. student in Computer Science at the University of North Carolina at Chapel Hill, advised by [Prof. Praneeth Chakravarthula](https://www.cs.unc.edu/~cpk/). Previously, I earned my Master's degree in Electronic and Information Engineering in Shanghai Jiao Tong University (advised by [Prof. Yuan Qu](https://ssse.sjtu.edu.cn/Data/Info/413) and [Prof. Jiamiao Yang](https://sais.sjtu.edu.cn/faculty/yangjiamiao.html)) and my Bachelor degree in Electronic Engineering from Tianjin University. 
 
 My research lies at the intersection of physical optics and computer science, focusing on computational imaging, computational displays (holography), wavefront shaping and optical neural network.
 
@@ -31,7 +31,7 @@ Please feel free to email me [lianhy0@cs.unc.edu](mailto:lianhy0@cs.unc.edu) for
     <img class="edu-logo" src="./assets/img/logos/tju_logo.png" alt="Tianjin University seal">
     <div class="edu-text">
       <div class="edu-head"><span class="edu-school">Tianjin University</span><span class="edu-date">Sep. 2017 – Jul. 2021</span></div>
-      <div class="edu-degree">B.Eng. in Electrical Engineering</div>
+      <div class="edu-degree">B.Eng. in Electronic Engineering</div>
     </div>
   </div>
 </div>
